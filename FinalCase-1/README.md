@@ -35,3 +35,16 @@ Kaggle üzerinde yer alan **Airline Passenger Satisfaction** veri seti kullanıl
 
 ### Hedef Segmentte Düşük Puanlı Alanlar  
 ![Hedef Segment](images/low_scores_target_group.png)
+
+## 📁 Dosya Yapısı
+
+```bash
+├── data/
+    ├── test.csv
+│   └── train.csv
+├── images/
+│   ├── service_score_distribution.png
+│   ├── flight_distance_satisfaction.png
+│   └── low_scores_target_group.png
+├── PatikaDev-KizBasina-Proje-1.ipynb
+└── README.md
